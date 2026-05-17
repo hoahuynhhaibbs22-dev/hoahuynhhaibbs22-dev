@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+guys%2C+welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I’m Hải Hòa, a Supply Chain student at Eastern International University with a strong interest in Business Analysis and Supply Chain Pptimization. I’m passionate about learning, exploring new ideas, and how to use analytics to solve the problems 📚
+I’m Hải Hòa, a Supply Chain student at Eastern International University with a strong interest in Business Analysis and Supply Chain Optimization. I’m passionate about learning, exploring new ideas, and how to use analytics to solve the problems 📚
 <!--
 **hoahuynhhaibbs22-dev/hoahuynhhaibbs22-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
